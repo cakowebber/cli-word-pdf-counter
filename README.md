@@ -77,20 +77,4 @@ rust - 37x
 ...
 ```
 
----
 
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Para contribuir:
-
-1. Fork este repositório.
-2. Crie uma branch com sua feature ou correção: `git checkout -b minha-feature`.
-3. Faça commit das suas alterações: `git commit -m "Minha contribuição"`.
-4. Envie para a branch original: `git push origin minha-feature`.
-5. Abra um Pull Request.
-
----
-
-## 📞 Contato
-
-Fique à vontade para entrar em contato comigo pelo meu [LinkedIn](https://www.linkedin.com/in/cmiguelwm/) para dúvidas ou sugestões.
